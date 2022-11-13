@@ -39,7 +39,7 @@ void menu()
     printf("\n1 : Play with X");
     printf("\n2 : Play with O");
     printf("\n3 : Exit");
-    printf("\nEnter your choice:>");
+    printf("\n Enter your choice:>");
     scanf("%d",&choice);
     turn = 1;
     switch (choice)
@@ -223,7 +223,7 @@ void check_draw()
     {
         gotoxy(30,20);
         //textcolor(128+RED);
-        printf("Game Draw");
+        printf("Game Draw!");
         getch();
         exit(0);
     }

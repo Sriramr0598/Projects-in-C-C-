@@ -12,7 +12,7 @@ char d='_';
 clrscr();
 c=strlen(&a[0][0]);
 //printf("\n\t\t**************\n\n\t\t\t");
-printf("\n\n\t\t\t ** HANGMAN ** \n");
+printf("\n\n\t\t\t ** HANGMAN... ** \n");
 	printf("\n\t\t\t**************\t\t\t");
 		printf("\n\t\t\t..............\n\n\t\t\t  ");
 for(j=0;j<c;j++)
