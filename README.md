@@ -1,1 +1,1 @@
-# Projects-in-C/C++
+# Sample projects and games-in-C/C++
